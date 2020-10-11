@@ -12,4 +12,4 @@ $ npm install
 ```
 $ npm run dev
 ```
-##### Visit [localhost:8080](localhost:8080)
+- Visit [localhost:8080](localhost:8080)
